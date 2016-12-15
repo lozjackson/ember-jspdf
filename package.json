@@ -43,7 +43,8 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.6"
+    "ember-cli-babel": "^5.1.6",
+    "jspdf": "^1.2.61"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
